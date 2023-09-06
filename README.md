@@ -60,6 +60,7 @@ As a next step I will try to further tune the hyper parameters using google cola
 
 https://github.com/sgshaikh/StoreSales_TimeSeriesForecasting
 
+![image](https://github.com/sgshaikh/StoreSales_TimeSeriesForecasting/assets/130025651/27176b73-657e-44d0-83a9-ac7367d983c4)
 
 
 ##### Contact and Further Information
