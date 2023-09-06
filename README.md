@@ -6,7 +6,7 @@ Alexis Cook, DanB, inversion, Ryan Holbrook. (2021). Store Sales - Time Series F
 
 #### Executive summary
 
-The competition is to Forecast store sales on data from Corporación Favorita, a large Ecuadorian-based grocery retailer. 
+The project is to Forecast store sales on data from Corporación Favorita, a large Ecuadorian-based grocery retailer. 
 
 Three methods were used to forecast sales (FB Prophet, Random Forrest Regression and XGBoost Regression). 
 
@@ -59,6 +59,7 @@ As a next step I will try to further tune the hyper parameters using google cola
 #### Outline of project
 
 https://github.com/sgshaikh/StoreSales_TimeSeriesForecasting
+
 
 
 ##### Contact and Further Information
