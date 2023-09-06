@@ -27,7 +27,7 @@ Forecasting inventory is critical for retailers. Having too much inventory takes
 Can machine learning be used to forecast sales for a large retailer with multiple stores across the country that sell items across 30+ categories that are often on promotion. 
 
 #### Data Sources
-I plan to use a Kaggle competition as a capstone project. 
+I used a Kaggle competition as a capstone project. 
 https://www.kaggle.com/competitions/store-sales-time-series-forecasting/overview
 
 
